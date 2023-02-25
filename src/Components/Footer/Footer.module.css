@@ -1,0 +1,19 @@
+.footer{
+    font-size: 15px;
+}
+.footerLogo {
+    padding: 0;
+}
+
+.footerLogo img {
+    object-fit: fill;
+    object-position: left;
+    margin-top: -20px;
+}
+.footerList li img{
+    width: 24px;
+    height: 24px;
+    margin-right: 12px;
+}
+
+
